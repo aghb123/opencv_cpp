@@ -243,3 +243,10 @@ ld: symbol(s) not found for architecture x86_64
 https://blog.csdn.net/AIhub/article/details/123516775
 
 https://blog.csdn.net/Bacon_Lee/article/details/117598884
+
+
+配置文件中路径宏：
+https://blog.csdn.net/weixin_39683172/article/details/111929865
+
+参考：
+https://zhuanlan.zhihu.com/p/398790625

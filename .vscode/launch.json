@@ -8,14 +8,14 @@
             "name": "c/c++ Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}.out",
+            "program": "${workspaceFolder}/output/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
-            "externalConsole": true,
+            "externalConsole": false,
             "MIMode": "lldb",
-            "preLaunchTask": "c++"
+            "preLaunchTask": "task g++"
         }
     ]
 }
